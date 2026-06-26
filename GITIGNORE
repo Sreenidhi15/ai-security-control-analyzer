@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.venv/
+
+# Environment / secrets — NEVER commit your API key
+.env
+*.env
+
+# Generated data and reports
+data/*.db
+data/*.json
+reports/*.pdf
+reports/*.json
+
+# Keep these placeholder files
+!data/.gitkeep
+!reports/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
