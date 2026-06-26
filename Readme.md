@@ -330,18 +330,6 @@ python phase6/report_generator.py --input data/gaps.json --format both
 
 ---
 
-## Author
-
-**Sreenidhi Ramani**
-M.S. Electrical and Computer Engineering — Computer Systems and Software
-Northeastern University | Boston, MA
-
-Research Assistant, CactiLab (Prof. Ziming Zhao) — firmware security, embedded systems vulnerability research, fuzzing (LibFuzzer/Boofuzz), SARIF reporting
-
-[GitHub](https://github.com/Sreenidhi15) · [LinkedIn](https://linkedin.com/in/sreenidhi-ramani)
-
----
-
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
